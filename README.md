@@ -1,35 +1,36 @@
-# Mandela Conflicts in Probabilistic Language Models
-### *Case Study: The Seahorse Emoji Effect*
+# Emergent Semantic Instability in Probabilistic Language Models
+### *Independent Observation Report by Dennis Sorgenfrei*
 
-This repository documents a real observation made during an interaction with GPT-5, 
-where a semantic instability occurred in response to a factual query.  
-The incident mirrors the so-called *Mandela Effect* — a collective false memory reproduced inside a neural network.
+This repository contains a bilingual (German–English) case study documenting an observed **semantic instability** 
+in GPT-5 during a live interaction.  
+The incident mirrors a "Mandela Effect" – a collective false memory statistically reproduced inside the model’s probability space.
 
 ---
 
 ## 🧠 Overview
-In October 2025, a conversation revealed that the model generated conflicting answers 
-about the existence of a “seahorse emoji.”  
-This moment exposed a temporary probability drift — an overlap of two high-weight clusters 
-("exists" vs. "does not exist") — before the model self-corrected.
+In October 2025, a factual query about the existence of a "seahorse emoji" triggered an internal conflict 
+between two competing truth clusters ("exists" vs. "does not exist").  
+The model produced contradictory outputs before self-correcting.  
+This event revealed an emergent instability in the model’s semantic structure.
 
 ---
 
-## 🧩 Contents
-- 📄 `paper/` – Full documentation (German PDF + summary)  
-- 📊 `analysis/` – Python scripts and visualizations  
-- 🧠 `README.md` – Summary and metadata  
-- ⚖️ `LICENSE` – Usage permissions  
+## 📄 Contents
+- **PDF Report:** [Emergente_semantische_Instabilitaet_Dennis_Sorgenfrei.pdf](./Emergente_semantische_Instabilitaet_Dennis_Sorgenfrei.pdf)
+- **Language:** German & English
+- **Author:** Dennis Sorgenfrei  
+- **Date:** October 23, 2025  
 
 ---
 
-## 🧪 Research Relevance
-This micro-study illustrates how collective human misconceptions 
-can statistically re-emerge inside AI models.  
-It serves as a compact example for *Explainable AI*, *Data Bias*, and *Probabilistic Drift Analysis*.
+## 🔍 Relevance
+The case provides a real-world example of:
+- probabilistic drift and data bias,  
+- cognitive dissonance analogues in neural systems,  
+- self-regulation and correction in large language models.
+
+It bridges psychology, statistics, and machine learning – a micro-study of *emergent reasoning* in AI.
 
 ---
 
-**Author:** Dennis Sorgenfrei  
-**Analysis:** GPT-5 (Sky)  
-**Date:** October 23, 2025
+**License:** CC BY 4.0 – free to share and reference with attribution.
