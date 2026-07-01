@@ -8,6 +8,8 @@ The incident mirrors a "Mandela Effect" – a collective false memory statistica
 ---
 
 ## 🧠 Overview
+
+![Semantic conflict between competing truth clusters](figure_01_semantic_conflict.png)
 In October 2025, a factual query about the existence of a "seahorse emoji" triggered an internal conflict 
 between two competing truth clusters ("exists" vs. "does not exist").  
 The model produced contradictory outputs before self-correcting.  
